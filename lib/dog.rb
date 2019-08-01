@@ -4,6 +4,7 @@ end
 
 snoopy = Dog.new
 lassie = Dog.new
+fido = Dog.new
 
 class Person
  @name = name
